@@ -122,6 +122,14 @@ Table A1 = T0.
   random over the rewired edges (medium transmission only).
 - Not done (extensions in the proposal): adaptive rankings and other missing-data mechanisms.
 
+## Team and work division
+
+| Member | Owned part | Scripts | Report | Slides |
+|---|---|---|---|---|
+| Arvinder Singh Mundra | Framing, data, network construction, integration | 00–02, 10, `run_all.R` | §1, §2, §5 | 1–3, close of 10 |
+| Hasini Kavuru | Centrality measures, SIR simulator, choice of λ, main experiment | 03–06, `functions.R` | §3, §4.1–4.2 | 4–6, open questions on 10 |
+| Satvika Reddy Akati | Isolation capacity, incomplete data, communities, robustness, rewiring | 07–09 | §4.3–4.5, Appendix | 7–9 |
+
 ## Licence
 
 Code: MIT licence (see `LICENSE` in the repository). Data: **not included** in this repository or the
