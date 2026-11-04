@@ -1,0 +1,9 @@
+check,passed,detail
+no_transmission,TRUE,lambda = 0 gives exactly one case
+edge_probability,TRUE,empirical 0.4542 vs exact 0.4512
+mean_infectious_days,TRUE,mean infectious days 5.04 (expected 5)
+isolation_respected,TRUE,isolated node infected in 0 of 300 runs; other three infected in 300 of 300
+two_person_final_size,TRUE,P(second infected) simulated 0.8024 vs exact 0.8043
+exact_final_size_4node,TRUE,mean final size simulated 3.5319 vs exact 3.5389; max |P sim - P exact| over sizes 1-4 = 0.0035; enumerator reproduces check 5 (0.8043)
+single_candidate_seed,TRUE,"with 3 of 4 isolated, every run has exactly one case (the remaining person)"
+uniform_seed_and_random_redraw,TRUE,"fixed sets: seeds never isolated, chi-square p = 0.937; random sets: 120 distinct sets in 500 runs, seed outside set in all runs"

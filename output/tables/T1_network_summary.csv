@@ -1,0 +1,14 @@
+measure,value
+People,75
+Edges,1139
+Density,0.4105
+Connected components,1
+Mean degree,30.37
+Median degree,27
+Mean strength (contact h/day),1.194
+Median strength (contact h/day),0.6146
+Global clustering (transitivity),0.588
+Mean local clustering,0.6403
+Diameter (unweighted),3
+Mean shortest path (unweighted),1.598
+"Role assortativity (nominal, unweighted)",-0.1214

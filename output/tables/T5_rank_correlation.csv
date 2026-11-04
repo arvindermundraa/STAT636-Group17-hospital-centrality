@@ -1,0 +1,5 @@
+measure,degree,betweenness,eigenvector,harmonic
+degree,1,0.654,0.872,0.845
+betweenness,0.654,1,0.593,0.656
+eigenvector,0.872,0.593,1,0.946
+harmonic,0.845,0.656,0.946,1

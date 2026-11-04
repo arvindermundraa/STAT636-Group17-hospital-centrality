@@ -1,0 +1,25 @@
+k,pair,jaccard
+1,degree vs betweenness,0
+1,degree vs eigenvector,0
+1,degree vs harmonic,0
+1,betweenness vs eigenvector,0
+1,betweenness vs harmonic,0
+1,eigenvector vs harmonic,1
+3,degree vs betweenness,0.2
+3,degree vs eigenvector,0
+3,degree vs harmonic,0
+3,betweenness vs eigenvector,0.5
+3,betweenness vs harmonic,0.5
+3,eigenvector vs harmonic,1
+5,degree vs betweenness,0.428571428571429
+5,degree vs eigenvector,0.25
+5,degree vs harmonic,0.25
+5,betweenness vs eigenvector,0.428571428571429
+5,betweenness vs harmonic,0.428571428571429
+5,eigenvector vs harmonic,0.666666666666667
+10,degree vs betweenness,0.333333333333333
+10,degree vs eigenvector,0.538461538461538
+10,degree vs harmonic,0.428571428571429
+10,betweenness vs eigenvector,0.428571428571429
+10,betweenness vs harmonic,0.428571428571429
+10,eigenvector vs harmonic,0.666666666666667
