@@ -1,0 +1,15 @@
+# Data are downloaded by R/01_get_data.R and are not redistributed here (CC BY-NC-SA 3.0, SocioPatterns)
+data/raw/
+data/processed/
+# Large or regenerated run outputs
+output/results/
+# Course-internal and audit material
+audit/
+deliverables/
+reference/
+# R / RStudio / OS
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+.DS_Store
